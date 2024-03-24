@@ -1,0 +1,15 @@
+{
+  "name": "modelapp",
+  "version": "1.0.0",
+  "description": "A model app structure for web apps",
+  "workspaces": [
+    "modelapp-frontend",
+    "modelapp-backend"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
